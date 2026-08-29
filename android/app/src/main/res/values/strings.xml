@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">invento</string>
+    <string name="title_activity_main">invento</string>
+    <string name="package_name">com.parrotmango.invento_</string>
+    <string name="custom_url_scheme">com.parrotmango.invento_</string>
+</resources>
