@@ -26,7 +26,7 @@ export default function App() {
 	};
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/invento_react">
       <Routes>
         {/* Login route */}
         <Route 
